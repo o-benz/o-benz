@@ -4,7 +4,7 @@
 <ul>
   <li>
     <p>
-      My name is <b>Omar Benzekri</b>, and I have many projects under my belt. :computer:
+      My name is <b>Omar BENZEKRI</b>, and I have many projects under my belt. :computer:
     </p>
   </li>
   <li>
