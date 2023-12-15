@@ -24,6 +24,7 @@
     <p>
       <a href="https://github.com/o-benz/POLYNATOR">Line-Following Robot : POLYNATOR</a> :electric_plug:
     </p>
+  </li>
   <li>
     <p>
       <a href="https://github.com/o-benz/POLYPLAY">Full-Stack Website : POLYPLAY</a> :globe_with_meridians:
