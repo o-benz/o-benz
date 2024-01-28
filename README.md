@@ -22,7 +22,7 @@
 <ul>
   <li>
     <p>
-      <a href="https://github.com/o-benz/POLYNATOR">Line-Following Robot : POLYNATOR</a> :electric_plug:
+      <a href="https://gitlab.com/polytechnique-montr-al/log2990/20241/equipe-101/LOG2990-101">Full-Stack Website : SmartyShowdown/a> :globe_with_meridians:
     </p>
   </li>
   <li>
