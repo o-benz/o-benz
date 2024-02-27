@@ -19,7 +19,7 @@
   </li>
   <li>
     <p>
-      I also work on many other projects on GitLab! <a href="https://gitlab.com/o-benz">Check me out!</a> :rocket:
+      I also started working on GitLab! <a href="https://gitlab.com/o-benz">Check me out!</a> :rocket:
     </p>
   </li>
 </ul>
