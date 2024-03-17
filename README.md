@@ -4,7 +4,7 @@
 <ul>
   <li>
     <p>
-      My name is <b>Omar BENZEKRI</b> (also known as the CSS King by like two people), and I have many projects under my belt. :computer:
+      My name is <b>Omar BENZEKRI</b> (also known as the CSS King), and I have many projects under my belt. :computer:
     </p>
   </li>
   <li>
