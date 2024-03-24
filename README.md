@@ -28,7 +28,7 @@
 <ul>
   <li>
     <p>
-      <a href="[https://gitlab.com/polytechnique-montr-al/log2990/20241/equipe-101/LOG2990-101](http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home)">Full-Stack Website : SmartyShowdown</a> :globe_with_meridians:
+      <a href="http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home">Full-Stack Website : SmartyShowdown</a> :globe_with_meridians:
     </p>
   </li>
   <li>
