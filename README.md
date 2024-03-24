@@ -28,12 +28,12 @@
 <ul>
   <li>
     <p>
-      <a href="https://gitlab.com/polytechnique-montr-al/log2990/20241/equipe-101/LOG2990-101">Full-Stack Website : SmartyShowdown</a> :globe_with_meridians:
+      <a href="[https://gitlab.com/polytechnique-montr-al/log2990/20241/equipe-101/LOG2990-101](http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home)">Full-Stack Website : SmartyShowdown</a> :globe_with_meridians:
     </p>
   </li>
   <li>
     <p>
-      <a href="https://github.com/o-benz/POLYPLAY">Full-Stack Website : POLYPLAY</a> :globe_with_meridians:
+      <a href="https://github.com/o-benz/StepByStep">Morgan Stanley's CTG Hackathon 2024: StepByStep</a> :globe_with_meridians:
     </p>
   </li>
 </ul>
