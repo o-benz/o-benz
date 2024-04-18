@@ -1,10 +1,11 @@
-<h1 style="text-align: center">Welcome! :wave:</h1>
+<h1 style="text-align: center">Hi, I'm Omar Benzekri :wave:</h1>
+<img src="header.png">
 
 <h2 style="text-align: left">:male_detective: About</h2>
 <ul>
   <li>
     <p>
-      My name is <b>Omar BENZEKRI</b> (also known as the CSS King), and I have many projects under my belt. :computer:
+      I more commonly known as the <b>CSS King</b> :crown:, and I have many projects under my belt. :computer:
     </p>
   </li>
   <li>
@@ -24,16 +25,16 @@
   </li>
 </ul>
 
-<h2 style="text-align: left">:ledger: Current project(s)</h2>
+<h2 style="text-align: left">:globe_with_meridians: Deployed Websites</h2>
 <ul>
   <li>
     <p>
-      <a href="http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home">Full-Stack Website : SmartyShowdown</a> :globe_with_meridians:
+      <a href="http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home">Web Application : SmartyShowdown</a>
     </p>
   </li>
   <li>
     <p>
-      <a href="https://github.com/o-benz/StepByStep">Morgan Stanley's CTG Hackathon 2024: StepByStep</a> :globe_with_meridians:
+      <a href="https://rustaheat.co/#/home">Morgan Stanley's CTG Hackathon 2024: StepByStep</a>
     </p>
   </li>
 </ul>
