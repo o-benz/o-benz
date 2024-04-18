@@ -1,5 +1,5 @@
 <h1 style="text-align: center">Hi, I'm Omar Benzekri :wave:</h1>
-<img src="header.png">
+<img src="head.png">
 
 <h2 style="text-align: left">:male_detective: About</h2>
 <ul>
