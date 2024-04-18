@@ -40,4 +40,4 @@
 </ul>
 
 <h2 style="text-align: left">:zap: Stats</h2>
-<img align="left" alt="o-benz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=o-benz&theme=tokyonight&count_private=true" />
+<img width="100%" align="center" alt="o-benz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=o-benz&theme=tokyonight&count_private=true" />
