@@ -41,3 +41,4 @@
 
 <h2 style="text-align: left">:zap: Stats</h2>
 <img width="100%" align="center" alt="o-benz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=o-benz&theme=tokyonight&count_private=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-benz&theme=city_lights&card_width=1000&layout=compact" alt="Top Langs" /></a>
