@@ -5,17 +5,17 @@
 <ul>
   <li>
     <p>
-      I more commonly known as the <b>CSS King</b> :crown:, and I have many projects under my belt. :computer:
+      I'm more commonly known as the <b>CSS King</b> :crown:, and I have many projects under my belt.
     </p>
   </li>
   <li>
     <p>
-      I study at <a href="https://www.polymtl.ca/">Polytechnique Montréal</a> in computer engineering. :school:
+      I study at <a href="https://www.polymtl.ca/">Polytechnique Montréal</a> in computer engineering.
     </p>
   </li>
   <li>
     <p>
-      For business inquiries, please message me directly on <a href="https://www.linkedin.com/in/omar-benzekri1/">LinkedIn</a>. :sparkler:
+      For business inquiries, please message me directly on <a href="https://www.linkedin.com/in/omar-benzekri1/">LinkedIn</a>.
     </p>
   </li>
 <!--
@@ -31,22 +31,22 @@
 <ul>
   <li>
     <p>
-       I have been working as a <b>Data Engineer Analyst</b> at <a href="https://www.nbc.ca/">National Bank of Canada</a> since May 2024.
+       I have been working as a <b>Data Engineer Analyst</b> at <a href="https://www.nbc.ca/">National Bank of Canada</a> since May 2024. 🏦
     </p>
   </li>
   <li>
     <p>
-       I worked as a <b>Software Engineer Intern</b> at <a href="https://www.admtl.com/">ADM Montreal Airports</a> between May 2023 and September 2023.
+       I worked as a <b>Software Engineer Intern</b> at <a href="https://www.admtl.com/">ADM Montreal Airports</a> between May 2023 and September 2023. ✈️
     </p>
   </li>
   <li>
     <p>
-       I worked as an <b>Advanced Object Oriented Teacher Assistant</b> at <a href="https://www.polymtl.ca/">Polytechnique Montréal</a> between January 2023 and December 2023.
+       I worked as an <b>Advanced Object Oriented Teacher Assistant</b> at <a href="https://www.polymtl.ca/">Polytechnique Montréal</a> between January 2023 and December 2023. 🏫
     </p>
   </li>
   <li>
     <p>
-      I have been working as a <b>Coding Instructor</b> at <a href="https://www.cimf.ca/">Collège international Marie de France</a> since September 2020.
+      I have been working as a <b>Coding Instructor</b> at <a href="https://www.cimf.ca/">Collège international Marie de France</a> since September 2020. 👨‍🏫
     </p>
   </li>
 </ul>
