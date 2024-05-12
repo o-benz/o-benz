@@ -36,12 +36,12 @@
   </li>
   <li>
     <p>
-       I worked as a <b>Software Engineer Intern</b> at <a href="https://www.admtl.com/">ADM Montreal Airports</a> between May 2023 and September 2023. ✈️
+       I worked as a <b>Software Engineer Intern</b> at <a href="https://www.admtl.com/">ADM Montreal Airports</a> between May and September 2023. ✈️
     </p>
   </li>
   <li>
     <p>
-       I worked as an <b>Advanced Object Oriented Teacher Assistant</b> at <a href="https://www.polymtl.ca/">Polytechnique Montréal</a> between January 2023 and December 2023. 🏫
+       I worked as an <b>Advanced Object Oriented Teacher Assistant</b> at <a href="https://www.polymtl.ca/">Polytechnique Montréal</a> between January and December 2023. 🏫
     </p>
   </li>
   <li>
