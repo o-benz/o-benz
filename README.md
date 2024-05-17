@@ -31,7 +31,7 @@
 <ul>
   <li>
     <p>
-       I have been working as a <b>Data Engineer Analyst</b> at <a href="https://www.nbc.ca/">National Bank of Canada</a> since May 2024. 🏦
+       I have been working as a <b>Data Engineering Analyst</b> at <a href="https://www.nbc.ca/">National Bank of Canada</a> since May 2024. 🏦
     </p>
   </li>
   <li>
