@@ -36,7 +36,7 @@
   </li>
   <li>
     <p>
-       I worked as a <b>Software Engineer Intern</b> at <a href="https://www.admtl.com/">ADM Montreal Airports</a> between May and September 2023. ✈️
+       I worked as a <b>Business Intelligence Intern</b> at <a href="https://www.admtl.com/">ADM Montreal Airports</a> between May and September 2023. ✈️
     </p>
   </li>
   <li>
@@ -55,17 +55,17 @@
 <ul>
   <li>
     <p>
-      <a href="http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home">Web Application : SmartyShowdown</a>
+      <a href="https://o-benz.github.io/home">Personal Web Portfolio </a>
     </p>
   </li>
   <li>
     <p>
-      <a href="https://rustaheat.co/#/home">Morgan Stanley's CTG Hackathon 2024 : StepByStep</a>
+      <a href="https://rustaheat.co/#/home">Morgan Stanley's 2024 CTG Hackathon : StepByStep</a>
     </p>
   </li>
-    <li>
+  <li>
     <p>
-      <a href="https://o-benz.github.io/home">Web Portfolio</a>
+      <a href="http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home">Web Application : SmartyShowdown</a>
     </p>
   </li>
 </ul>
