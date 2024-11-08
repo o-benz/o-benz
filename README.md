@@ -10,12 +10,12 @@
   </li>
   <li>
     <p>
-      I study at <a href="https://www.polymtl.ca/">Polytechnique Montréal</a> in computer engineering.
+      I am fluent in <i>English</i>, <i>French</i>, <i>Spanish</i>, and <i>Arabic</i>, enabling me to communicate effectively and engage with diverse teams and clients across multiple languages.
     </p>
   </li>
   <li>
     <p>
-      For business inquiries, please message me directly on <a href="https://www.linkedin.com/in/omar-benzekri1/">LinkedIn</a>.
+      I study at <a href="https://www.polymtl.ca/">Polytechnique Montréal</a> in <b>Computer Engineering</b> with a minor in <b>AI and Data Science</b>.
     </p>
   </li>
 <!--
