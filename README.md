@@ -10,7 +10,7 @@
   </li>
   <li>
     <p>
-      I am fluent in <i>English</i>, <i>French</i>, <i>Spanish</i>, and <i>Arabic</i>, enabling me to communicate effectively and engage with diverse teams and clients across multiple languages.
+      I am fluent in <i>English</i>, <i>French</i>, <i>Spanish</i>, and <i>Arabic</i>, enabling me to communicate effectively across multiple languages.
     </p>
   </li>
   <li>
