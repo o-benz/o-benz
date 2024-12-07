@@ -1,6 +1,7 @@
-<h1 style="text-align: center">Hi, I'm Omar Benzekri :wave:</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Omar%20Benzekri%20-nl-&textBg=false&fontSize=60&animation=fadeIn&reversal=false&desc=%20Computer%20Engineer%20|%20Data%20Engineering%20Analyst&descSize=25"/>
+<!--<h1 style="text-align: center">Hi, I'm Omar Benzekri :wave:</h1>
 <img src="head.png">
-
+-->
 <h2 style="text-align: left">:male_detective: About</h2>
 <ul>
   <li>
@@ -73,3 +74,6 @@
 <h2 style="text-align: left">:zap: Stats</h2>
 <!--<img width="100%" align="center" alt="o-benz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=o-benz&theme=tokyonight&count_private=true" />-->
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-benz&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=vhdl,verilog,ada,tcl,systemverilog,V,c%2B%2B,assembly,glsl,html,c,cmake" alt="Top Langs" />
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer"/>
