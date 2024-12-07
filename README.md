@@ -72,4 +72,4 @@
 
 <h2 style="text-align: left">:zap: Stats</h2>
 <!--<img width="100%" align="center" alt="o-benz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=o-benz&theme=tokyonight&count_private=true" />-->
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-benz&theme=city_lights&card_width=1000&layout=compact" alt="Top Langs" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-benz&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=vhdl,verilog,ada,tcl,systemverilog,V,c%2B%2B,assembly,glsl,html,c,cmake" alt="Top Langs" />
