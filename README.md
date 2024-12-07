@@ -107,6 +107,11 @@
     </li>
     <li>
       <p>
+        <a href="https://github.com/o-benz/INF3610">INF3610 : Embedded Systems</a>
+      </p>
+    </li>
+    <li>
+      <p>
         <a href="https://github.com/o-benz/ITI1520">ITI1520 : Introduction to Computing</a>
       </p>
     </li>
