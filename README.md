@@ -4,22 +4,30 @@
 <img src="head.png">
 -->
 
+<a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=1000&color=BA47F7&center=true&vCenter=true&width=500&height=20&lines=The+CSS+King+%F0%9F%91%91" alt="Typing SVG" /></a>
 
 <b>:male_detective: About</b>
 <ul>
+  <!--
   <li>
     <p>
       I'm more commonly known as the <b>CSS King</b> :crown:, and I have many projects under my belt.
     </p>
   </li>
+  -->
   <li>
     <p>
-      I am fluent in <i>English</i>, <i>French</i>, <i>Spanish</i>, and <i>Arabic</i>, enabling me to communicate effectively across multiple languages.
+      I work at <a href="https://www.nbc.ca/">National Bank of Canada</a> as a <b>Data Engineering Analyst</b>.
     </p>
   </li>
   <li>
     <p>
       I study at <a href="https://www.polymtl.ca/">Polytechnique Montréal</a> in <b>Computer Engineering</b> with a minor in <b>AI and Data Science</b>.
+    </p>
+  </li>
+  <li>
+    <p>
+      I am fluent in <i>English</i>, <i>French</i>, <i>Spanish</i>, and <i>Arabic</i>, enabling me to communicate effectively across multiple languages.
     </p>
   </li>
 </ul>
