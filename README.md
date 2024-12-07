@@ -217,6 +217,14 @@
 
 <h2 style="text-align: left">:zap: Stats</h2>
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-benz&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=vhdl,verilog,ada,tcl,systemverilog,V,c%2B%2B,assembly,glsl,html,c,cmake" alt="Top Langs" />
+
+<b>🔢 Visitor Count</b>
 -->
+
+<p align="center" style="margin: 0;">
+  <br>
+  <img width="30%" src="https://profile-counter.glitch.me/o-benz/count.svg" alt="Visitor Count">
+</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:191034,29:424597,66:5E34DB,100:393C7Dt&section=footer"/>
