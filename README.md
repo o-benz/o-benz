@@ -223,6 +223,8 @@
 
 <p align="center" style="margin: 0;">
   <br>
+  <b>Visitor Count :</b>
+  <br>
   <img width="30%" src="https://profile-counter.glitch.me/o-benz/count.svg" alt="Visitor Count">
 </p>
 
