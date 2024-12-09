@@ -68,7 +68,7 @@
     </li>
     <li>
       <p>
-        <a href="https://rustaheat.co/#/home">Morgan Stanley's 2024 CTG Hackathon : StepByStep</a>
+        <a href="https://rustaheat.co/#/home">Morgan Stanley's CTG Hackathon : StepByStep</a>
       </p>
     </li>
     <li>
