@@ -82,6 +82,11 @@
 
 <details>
   <summary><b>📚 Coursework Catalog</b></summary>
+  <!--
+  <p>
+    <a href="https://github.com/o-benz/OverEngineered">OverEngineered : A PolyMTL Ressource Hub</a>
+  </p>
+  -->
   <ul>
     <li>
       <p>
