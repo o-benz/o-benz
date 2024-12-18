@@ -4,7 +4,7 @@
 <img src="head.png">
 -->
 
-<a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=1000&color=BA47F7&center=true&vCenter=true&width=500&height=20&lines=The+CSS+King+%F0%9F%91%91" alt="Typing SVG" /></a>
+<a href="https://o-benz.github.io/"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=1000&color=BA47F7&center=true&vCenter=true&width=500&height=20&lines=The+CSS+King+%F0%9F%91%91" alt="Typing SVG" /></a>
 
 <b>:male_detective: About</b>
 <ul>
