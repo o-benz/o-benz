@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:191034,29:424597,66:5E34DB,100:393C7D&text=Hi,%20I'm%20Omar%20Benzekri%20-nl-&textBg=false&fontSize=50&animation=fadeIn&reversal=false&desc=%20Computer%20Engineer%20|%20Data%20Engineering%20Analyst&descSize=20&fontColor=FFF&stroke=ea00ff&strokeWidth=1"/>
+<a href="https://o-benz.github.io/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:191034,29:424597,66:5E34DB,100:393C7D&text=Hi,%20I'm%20Omar%20Benzekri%20-nl-&textBg=false&fontSize=50&animation=fadeIn&reversal=false&desc=%20Computer%20Engineer%20|%20Data%20Engineering%20Analyst&descSize=20&fontColor=FFF&stroke=ea00ff&strokeWidth=1"/></a>
 
 <!--<h1 style="text-align: center">Hi, I'm Omar Benzekri :wave:</h1>
 <img src="head.png">
@@ -154,7 +154,7 @@
 <details>
   <summary><b>:zap: Language Stats</b></summary>
   <br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-benz&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=vhdl,verilog,ada,tcl,systemverilog,V,c%2B%2B,assembly,glsl,c,cmake" alt="Top Langs" />
+  <a href="https://o-benz.github.io/"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-benz&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=vhdl,verilog,ada,tcl,systemverilog,V,c%2B%2B,assembly,glsl,c,cmake" alt="Top Langs" /></a>
 </details>
 
 <!--
@@ -234,4 +234,4 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:191034,29:424597,66:5E34DB,100:393C7Dt&section=footer"/>
+<a href="https://o-benz.github.io/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:191034,29:424597,66:5E34DB,100:393C7Dt&section=footer"/></a>
