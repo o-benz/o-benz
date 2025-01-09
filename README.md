@@ -63,7 +63,12 @@
   <ul>
     <li>
       <p>
-        <a href="https://o-benz.github.io/home">Personal Web Portfolio </a>
+        <a href="https://o-benz.github.io/home">My Personal Web Portfolio</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="https://drissandnawal.github.io/">My Brother's Wedding Website</a>
       </p>
     </li>
     <li>
