@@ -37,12 +37,17 @@
   <ul>
     <li>
       <p>
+         I have been working as a <b>Software Developer</b> at <a href="https://www.cae.com/">CAE</a> since January 2025. ✈️ 
+      </p>
+    </li>
+    <li>
+      <p>
          I have been working as a <b>Data Engineering Analyst</b> at <a href="https://www.nbc.ca/">National Bank of Canada</a> since May 2024. 🏦
       </p>
     </li>
     <li>
       <p>
-         I worked as a <b>Business Intelligence Intern</b> at <a href="https://www.admtl.com/">ADM Montreal Airports</a> between May and September 2023. ✈️
+         I worked as a <b>Business Intelligence Engineer</b> at <a href="https://www.admtl.com/">ADM Montreal Airports</a> between May and September 2023. 🛬
       </p>
     </li>
     <li>
@@ -52,7 +57,7 @@
     </li>
     <li>
       <p>
-        I have been working as a <b>Coding Instructor</b> at <a href="https://www.cimf.ca/">Collège international Marie de France</a> since September 2020. 👨‍🏫
+        I worked as a <b>Coding Instructor</b> at <a href="https://www.cimf.ca/">Collège international Marie de France</a> between September 2020 and December 2024. 👨‍🏫
       </p>
     </li>
   </ul>
