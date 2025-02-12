@@ -75,6 +75,11 @@
     </li>
     <li>
       <p>
+        <a href="https://beyondgpa.github.io/">Data Visualization Project : BeyondGPA</a>
+      </p>
+    </li>
+    <li>
+      <p>
         <a href="https://rustaheat.co/#/home">Morgan Stanley's CTG Hackathon : StepByStep</a>
       </p>
     </li>
