@@ -80,12 +80,12 @@
     </li>
     <li>
       <p>
-        <a href="https://rustaheat.co/#/home">Morgan Stanley's CTG Hackathon : StepByStep</a>
+        <a href="http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home">Web Game : SmartyShowdown</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home">Web Application : SmartyShowdown</a>
+        <a href="https://rustaheat.co/#/home">Morgan Stanley's CTG Hackathon : StepByStep</a>
       </p>
     </li>
   </ul>
