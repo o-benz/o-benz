@@ -1,5 +1,5 @@
 <a href="https://o-benz.github.io/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:191034,29:424597,66:5E34DB,100:393C7D&text=Hi,%20I%27m%20Omar%20Benzekri%20-nl-&textBg=false&fontSize=50&animation=fadeIn&reversal=false&desc=%20Computer%20Engineer%20|%20Data%20Engineering%20Analyst&descSize=20&fontColor=FFF&stroke=ea00ff&strokeWidth=1&fontAlignY=35&descAlignY=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:191034,29:424597,66:5E34DB,100:393C7D&text=Hi,%20I%27m%20Omar%20Benzekri%20-nl-&textBg=false&fontSize=50&animation=fadeIn&reversal=false&desc=%20Computer%20Engineer%20|%20Software%20Engineer&descSize=20&fontColor=FFF&stroke=ea00ff&strokeWidth=1&fontAlignY=35&descAlignY=50"/>
 </a>
 
 <!--<h1 style="text-align: center">Hi, I'm Omar Benzekri :wave:</h1>
@@ -19,7 +19,7 @@
   </li>
   <li>
     <p>
-      I work at <a href="https://www.nbc.ca/">National Bank of Canada</a> as a <b>Data Engineering Analyst</b>.
+      I work at <a href="https://www.shopify.com/">Shopify</a> as a <b>Software Engineer</b>.
     </p>
   </li>
   <li>
@@ -34,12 +34,17 @@
   <ul>
     <li>
       <p>
-         I have been working as a <b>Software Developer</b> at <a href="https://www.cae.com/">CAE</a> since January 2025. ✈️ 
+         I have been working as a <b>Software Engineer</b> at <a href="https://www.shopify.com/">Shopify</a> since May 2025. 🛍️
       </p>
     </li>
     <li>
       <p>
-         I have been working as a <b>Data Engineering Analyst</b> at <a href="https://www.nbc.ca/">National Bank of Canada</a> since May 2024. 🏦
+         I worked as a <b>Software Developer</b> at <a href="https://www.cae.com/">CAE</a> between January and April 2025. ✈️ 
+      </p>
+    </li>
+    <li>
+      <p>
+         I worked as a <b>Data Engineering Analyst</b> at <a href="https://www.nbc.ca/">National Bank of Canada</a> between May 2024 and April 2025. 🏦
       </p>
     </li>
     <li>
@@ -133,6 +138,21 @@
     <li>
       <p>
         <a href="https://github.com/o-benz/INF3610">INF3610 : Embedded Systems</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="https://github.com/o-benz/INF8008">INF8008 : Data Preprocessing</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="https://github.com/o-benz/INF8225">INF8225 : Artificial Intelligence: Probabilistic and Learning Techniques</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="https://github.com/o-benz/INF8808">INF8808 : Data Vizualisation</a>
       </p>
     </li>
     <li>
