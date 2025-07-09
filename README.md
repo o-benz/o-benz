@@ -192,11 +192,11 @@
 </details>
 
 <p align="center" style="margin: 0;">
-  <br>
+<!--   <br>
   <b>Visitor Count :</b>
-  <br>
+  <br> -->
   <a href="https://o-benz.github.io/">
-    <img width="30%" src="https://profile-counter.glitch.me/o-benz/count.svg" alt="Visitor Count">
+    <img width="30%" src="https://komarev.com/ghpvc/?username=o-benz&color=blueviolet" alt="Visitor Count">
   </a>
 </p>
 
