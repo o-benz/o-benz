@@ -70,6 +70,11 @@
   <ul>
     <li>
       <p>
+        <a href="https://polyloop.ca/">PolyLoop</a>
+      </p>
+    </li>
+    <li>
+      <p>
         <a href="https://o-benz.github.io/home">My Personal Web Portfolio</a>
       </p>
     </li>
