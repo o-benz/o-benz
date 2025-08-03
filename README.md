@@ -1,4 +1,4 @@
-<a href="https://o-benz.github.io/">
+<a href="https://www.omarbenzekri.com/">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:191034,29:424597,66:5E34DB,100:393C7D&text=Hi,%20I%27m%20Omar%20Benzekri%20-nl-&textBg=false&fontSize=50&animation=fadeIn&reversal=false&desc=%20Computer%20Engineer%20|%20Software%20Engineer&descSize=20&fontColor=FFF&stroke=ea00ff&strokeWidth=1&fontAlignY=35&descAlignY=50"/>
 </a>
 
@@ -6,7 +6,7 @@
 <img src="head.png">
 -->
 
-<a href="https://o-benz.github.io/">
+<a href="https://www.omarbenzekri.com/">
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=1000&color=BA47F7&center=true&vCenter=true&width=500&height=20&lines=The+CSS+King+%F0%9F%91%91" alt="Typing SVG" />
 </a>
 
@@ -75,7 +75,7 @@
     </li>
     <li>
       <p>
-        <a href="https://o-benz.github.io/home">My Personal Web Portfolio</a>
+        <a href="https://www.omarbenzekri.com/">My Personal Web Portfolio</a>
       </p>
     </li>
     <li>
@@ -191,7 +191,7 @@
 <details>
   <summary><b>:zap: Language Stats</b></summary>
   <br>
-  <a href="https://o-benz.github.io/">
+  <a href="https://www.omarbenzekri.com/">
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-benz&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=vhdl,verilog,ada,tcl,systemverilog,V,c%2B%2B,assembly,glsl,c,cmake" alt="Language Stats" />
   </a>
 </details>
@@ -200,11 +200,11 @@
 <!--   <br>
   <b>Visitor Count :</b>
   <br> -->
-  <a href="https://o-benz.github.io/">
+  <a href="https://www.omarbenzekri.com/">
     <img width="30%" src="https://komarev.com/ghpvc/?username=o-benz&color=blueviolet" alt="Visitor Count">
   </a>
 </p>
 
-<a href="https://o-benz.github.io/">
+<a href="https://www.omarbenzekri.com/">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:191034,29:424597,66:5E34DB,100:393C7Dt&section=footer"/>
 </a>
