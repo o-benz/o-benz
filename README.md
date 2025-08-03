@@ -70,36 +70,37 @@
   <ul>
     <li>
       <p>
-        <a href="https://polyloop.ca/">PolyLoop</a>
+        <a href="https://polyloop.ca/">PolyLoop · Student Committee Platform</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="https://omarbenzekri.com/">My Personal Web Portfolio</a>
+        <a href="https://omarbenzekri.com/">OmarBenzekri.com · Personal Portfolio</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="https://drissandnawal.github.io/">My Brother's Wedding Website</a>
+        <a href="https://beyondgpa.github.io/">BeyondGPA · Data Visualization Project</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="https://beyondgpa.github.io/">Data Visualization Project : BeyondGPA</a>
+        <a href="https://drissandnawal.github.io/">Driss & Nawal · Wedding Website</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home">Web Game : SmartyShowdown</a>
+        <a href="http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home">SmartyShowdown · Multiplayer Web Game</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="https://rustaheat.co/#/home">Morgan Stanley's CTG Hackathon : StepByStep</a>
+        <a href="https://rustaheat.co/#/home">StepByStep · Morgan Stanley Hackathon App</a>
       </p>
     </li>
   </ul>
 </details>
+
 
 
 <details>
