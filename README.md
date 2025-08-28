@@ -49,7 +49,7 @@
     </li>
     <li>
       <p>
-         I worked as a <b>Business Intelligence Engineer</b> at <a href="https://admtl.com/">ADM Montreal Airports</a> between May and September 2023. 🛬
+         I worked as a <b>Data Engineer</b> at <a href="https://admtl.com/">ADM Montreal Airports</a> between May and September 2023. 🛬
       </p>
     </li>
     <li>
