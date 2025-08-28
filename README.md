@@ -17,14 +17,14 @@
       I am fluent in <i>English</i>, <i>French</i>, <i>Spanish</i>, and <i>Arabic</i>.
     </p>
   </li>
-  <li>
+<!--   <li>
     <p>
       I work at <a href="https://shopify.com/">Shopify</a> as a <b>Software Engineer</b>.
     </p>
-  </li>
+  </li> -->
   <li>
     <p>
-      I study at <a href="https://polymtl.ca/">Polytechnique Montréal</a> in <b>Computer Engineering</b> with a minor in <b>AI and Data Science</b>.
+      I'm a senior at <a href="https://polymtl.ca/">Polytechnique Montréal</a> in <b>Computer Engineering</b> with a minor in <b>AI and Data Science</b>.
     </p>
   </li>
 </ul>
@@ -34,17 +34,17 @@
   <ul>
     <li>
       <p>
-         I have been working as a <b>Software Engineer</b> at <a href="https://shopify.com/">Shopify</a> since May 2025. 🛍️
+         I worked as a <b>Software Engineer</b> at <a href="https://shopify.com/">Shopify</a> between May and August 2025. 🛍️
       </p>
     </li>
     <li>
       <p>
-         I worked as a <b>Software Developer</b> at <a href="https://cae.com/">CAE</a> between January and April 2025. ✈️ 
+         I worked as a <b>Software Engineer</b> at <a href="https://cae.com/">CAE</a> between January and April 2025. ✈️ 
       </p>
     </li>
     <li>
       <p>
-         I worked as a <b>Data Engineering Analyst</b> at <a href="https://nbc.ca/">National Bank of Canada</a> between May 2024 and April 2025. 🏦
+         I worked as a <b>Data Engineer</b> at <a href="https://nbc.ca/">National Bank of Canada</a> between May 2024 and April 2025. 🏦
       </p>
     </li>
     <li>
