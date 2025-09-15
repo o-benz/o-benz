@@ -132,11 +132,6 @@
     </li>
     <li>
       <p>
-        ⭐ <a href="https://omarbenzekri.com/">OmarBenzekri.com · Personal Portfolio</a>
-      </p>
-    </li>
-    <li>
-      <p>
         ⭐ <a href="https://beyondgpa.github.io/">BeyondGPA · Data Visualization Project</a>
       </p>
     </li>
@@ -147,12 +142,17 @@
     </li>
     <li>
       <p>
-        <a href="http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home">SmartyShowdown · Multiplayer Web Game</a>
+        ⭐ <a href="https://omarbenzekri.com/">OmarBenzekri.com · Personal Portfolio</a>
       </p>
     </li>
     <li>
       <p>
         <a href="https://rustaheat.co/#/home">StepByStep · Morgan Stanley Hackathon App</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="http://polytechnique-montr-al.gitlab.io/log2990/20241/equipe-101/LOG2990-101/#/home">SmartyShowdown · Multiplayer Web Game</a>
       </p>
     </li>
   </ul>
