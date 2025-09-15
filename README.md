@@ -32,38 +32,92 @@
 <details>
   <summary><b>💼 Experience</b></summary>
   <ul>
+    <br/>
     <li>
-      <p>
-         I worked as a <b>Software Engineer</b> at <a href="https://shopify.com/">Shopify</a> between May and August 2025. 🛍️
-      </p>
+      🛍️ <a href="https://shopify.com/"><b>Shopify</b></a>
+      · <code>Software Engineer</code>
+      · <i>May–Aug 2025</i>
+      <br/>
+      <sub>
+        Marketing Automation Tools / Email ·
+        <a href="https://omarbenzekri.com/">
+          <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="15" />
+        </a>
+        <a href="https://omarbenzekri.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="15" />
+        </a>
+      </sub>
     </li>
     <li>
-      <p>
-         I worked as a <b>Software Engineer</b> at <a href="https://cae.com/">CAE</a> between January and April 2025. ✈️ 
-      </p>
+      ✈️ <a href="https://cae.com/"><b>CAE</b></a>
+      · <code>Software Engineer</code>
+      · <i>Jan–Apr 2025</i>
+      <br/>
+      <sub>
+        Platform Infrastructure Automation ·
+        <a href="https://omarbenzekri.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="15" />
+        </a>
+        <a href="https://omarbenzekri.com/">
+          <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="15" />
+        </a>
+      </sub>
     </li>
     <li>
-      <p>
-         I worked as a <b>Data Engineer</b> at <a href="https://nbc.ca/">National Bank of Canada</a> between May 2024 and April 2025. 🏦
-      </p>
+      🏦 <a href="https://nbc.ca/"><b>National Bank of Canada</b></a>
+      · <code>Data Engineer</code>
+      · <i>May 2024–Apr 2025</i>
+      <br/>
+      <sub>
+        Horizon Services ·
+        <a href="https://omarbenzekri.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" />
+        </a>
+        <a href="https://omarbenzekri.com/">
+          <img src="https://api.iconify.design/mdi/database.svg?color=white" height="15
+        <a href="https://omarbenzekri.com/">
+          <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="15" />
+        </a>
+      </sub>
     </li>
     <li>
-      <p>
-         I worked as a <b>Data Engineer</b> at <a href="https://admtl.com/">ADM Montreal Airports</a> between May and September 2023. 🛬
-      </p>
+      🛬 <a href="https://admtl.com/"><b>ADM Montréal Airports</b></a>
+      · <code>Data Engineer</code>
+      · <i>May–Sep 2023</i>
+      <br/>
+      <sub>
+        Business Intelligence ·
+        <a href="https://omarbenzekri.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" />
+        </a>
+        <a href="https://omarbenzekri.com/">
+          <img src="https://api.iconify.design/mdi/database.svg?color=white" height="15" />
+        </a>
+        <a href="https://omarbenzekri.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="15" />
+        </a>
+        <a href="https://omarbenzekri.com/">
+          <img src="https://img.icons8.com/color/48/power-bi.png" height="15" />
+        </a>
+      </sub>
     </li>
     <li>
-      <p>
-         I worked as a <b>Teacher Assistant</b> at <a href="https://polymtl.ca/">Polytechnique Montréal</a> between January and December 2023. 🏫
-      </p>
+      🏫 <a href="https://polymtl.ca/"><b>Polytechnique Montréal</b></a>
+      · <code>Teaching Assistant</code>
+      · <i>Jan–Dec 2023</i>
+      <br/>
+      <sub>
+        Data Structures & Algorithms, Object Oriented Programming
+      </sub>
     </li>
     <li>
-      <p>
-        I worked as a <b>Coding Instructor</b> at <a href="https://cimf.ca/">Collège international Marie de France</a> between September 2020 and December 2024. 👨‍🏫
-      </p>
+      👨‍🏫 <a href="https://cimf.ca/"><b>Collège international Marie de France</b></a>
+      · <code>Coding Instructor</code>
+      · <i>Sep 2020–Dec 2024</i>
     </li>
   </ul>
 </details>
+
 
 <details>
   <summary><b>:globe_with_meridians: Deployed Websites</b></summary>
