@@ -127,17 +127,17 @@
   <ul>
     <li>
       <p>
-        <a href="https://polyloop.ca/">PolyLoop · Student Committee Platform</a>
+        ⭐ <a href="https://polyloop.ca/"><b>PolyLoop · Student Committee Platform</b></a>
       </p>
     </li>
     <li>
       <p>
-        <a href="https://omarbenzekri.com/">OmarBenzekri.com · Personal Portfolio</a>
+        ⭐ <a href="https://omarbenzekri.com/">OmarBenzekri.com · Personal Portfolio</a>
       </p>
     </li>
     <li>
       <p>
-        <a href="https://beyondgpa.github.io/">BeyondGPA · Data Visualization Project</a>
+        ⭐ <a href="https://beyondgpa.github.io/">BeyondGPA · Data Visualization Project</a>
       </p>
     </li>
     <li>
