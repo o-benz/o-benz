@@ -210,7 +210,22 @@
     </li>
     <li>
       <p>
+        <a href="https://github.com/o-benz/INF8008">INF8111 : Data Mining</a>
+      </p>
+    </li>
+    <li>
+      <p>
         <a href="https://github.com/o-benz/INF8225">INF8225 : Artificial Intelligence: Probabilistic and Learning Techniques</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="https://github.com/o-benz/INF8770">INF8460  : Natural Language Processing</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="https://github.com/o-benz/INF8770">INF8770 : Multimedia Systems</a>
       </p>
     </li>
     <li>
