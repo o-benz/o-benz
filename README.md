@@ -210,7 +210,7 @@
     </li>
     <li>
       <p>
-        <a href="https://github.com/o-benz/INF8008">INF8111 : Data Mining</a>
+        <a href="https://github.com/o-benz/INF8111">INF8111 : Data Mining</a>
       </p>
     </li>
     <li>
@@ -220,7 +220,7 @@
     </li>
     <li>
       <p>
-        <a href="https://github.com/o-benz/INF8770">INF8460  : Natural Language Processing</a>
+        <a href="https://github.com/o-benz/INF8460">INF8460  : Natural Language Processing</a>
       </p>
     </li>
     <li>
