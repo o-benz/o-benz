@@ -24,7 +24,7 @@
   </li> -->
   <li>
     <p>
-      I'm a senior at <a href="https://polymtl.ca/">Polytechnique Montréal</a> in <b>Computer Engineering</b> with a minor in <b>AI and Data Science</b>.
+      I'm a <b>Computer Engineering</b> graduate from <a href="https://polymtl.ca/">Polytechnique Montréal</a> with a minor in <b>AI and Data Science</b>.
     </p>
   </li>
 </ul>
