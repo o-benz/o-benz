@@ -1,5 +1,5 @@
 <a href="https://omarbenzekri.com/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:191034,29:424597,66:5E34DB,100:393C7D&text=Hi,%20I%27m%20Omar%20Benzekri%20-nl-&textBg=false&fontSize=50&animation=fadeIn&reversal=false&desc=%20Computer%20Engineer%20|%20Software%20Engineer&descSize=20&fontColor=FFF&stroke=ea00ff&strokeWidth=1&fontAlignY=35&descAlignY=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:191034,29:424597,66:5E34DB,100:393C7D&text=Hi,%20I%27m%20Omar%20Benzekri%20-nl-&textBg=false&fontSize=50&animation=fadeIn&reversal=false&desc=%20Computer%20Engineer%20|%20Web%20Designer&descSize=20&fontColor=FFF&stroke=ea00ff&strokeWidth=1&fontAlignY=35&descAlignY=50"/>
 </a>
 
 <!--<h1 style="text-align: center">Hi, I'm Omar Benzekri :wave:</h1>
