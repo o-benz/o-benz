@@ -17,11 +17,11 @@
       I am fluent in <i>English</i>, <i>French</i>, <i>Spanish</i>, and <i>Arabic</i>.
     </p>
   </li>
-<!--   <li>
+  <li>
     <p>
       I work at <a href="https://shopify.com/">Shopify</a> as a <b>Software Engineer</b>.
     </p>
-  </li> -->
+  </li>
   <li>
     <p>
       I'm a <b>Computer Engineering</b> graduate from <a href="https://polymtl.ca/">Polytechnique Montréal</a> with a minor in <b>AI and Data Science</b>.
