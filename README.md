@@ -38,6 +38,21 @@
     <li>
       🛍️ <a href="https://shopify.com/"><b>Shopify</b></a>
       · <code>Software Engineer</code>
+      · <i>Jan 2026–Present</i>
+      <br/>
+      <sub>
+        Commerce Loop / Addresses ·
+        <a href="https://omarbenzekri.com/">
+          <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="15" />
+        </a>
+        <a href="https://omarbenzekri.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="15" />
+        </a>
+      </sub>
+    </li>
+    <li>
+      🛍️ <a href="https://shopify.com/"><b>Shopify</b></a>
+      · <code>Software Engineer</code>
       · <i>May–Aug 2025</i>
       <br/>
       <sub>
@@ -76,7 +91,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" />
         </a>
         <a href="https://omarbenzekri.com/">
-          <img src="https://api.iconify.design/mdi/database.svg?color=white" height="15
+          <img src="https://api.iconify.design/mdi/database.svg?color=white" height="15 />
         <a href="https://omarbenzekri.com/">
           <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="15" />
         </a>
@@ -267,7 +282,7 @@
   <summary><b>:zap: Language Stats</b></summary>
   <br>
   <a href="https://omarbenzekri.com/">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-benz&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=vhdl,verilog,ada,tcl,systemverilog,V,c%2B%2B,assembly,glsl,c,cmake" alt="Language Stats" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-benz&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=vhdl,verilog,ada,tcl,systemverilog,V,c%2B%2B,assembly,glsl,c,cmake,jupyter%20notebook" alt="Language Stats" />
   </a>
 </details>
 
