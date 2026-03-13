@@ -147,6 +147,11 @@
     </li>
     <li>
       <p>
+        ⭐ <a href="https://kinintel.ca/"><b>KinIntel · Kinesiology Business Platform</b></a>
+      </p>
+    </li>
+    <li>
+      <p>
         ⭐ <a href="https://beyondgpa.github.io/">BeyondGPA · Data Visualization Project</a>
       </p>
     </li>
@@ -163,6 +168,11 @@
     <li>
       <p>
         <a href="https://rustaheat.co/#/home">StepByStep · Morgan Stanley Hackathon App</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <a href="https://salima-valentine.vercel.app/">a vibe coded valentine's</a>
       </p>
     </li>
     <li>
