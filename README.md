@@ -138,8 +138,13 @@
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, #191034, #424597, #5E34DB, #393C7D);">
 
 <details>
-  <summary><b>:globe_with_meridians: Deployed Websites</b></summary>
+  <summary><b>:globe_with_meridians: Deployed Projects</b></summary>
   <ul>
+    <li>
+      <p>
+        ⭐ <a href="https://apps.apple.com/ca/app/plein-qc/id6761608251"><b>Plein QC · Live Quebec Gas Prices App</b></a>
+      </p>
+    </li>
     <li>
       <p>
         ⭐ <a href="https://polyloop.ca/"><b>PolyLoop · Student Committee Platform</b></a>
