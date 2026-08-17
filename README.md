@@ -19,7 +19,7 @@
   </li>
   <li>
     <p>
-      I work at <a href="https://shopify.com/">Shopify</a> as a <b>Software Engineer</b>.
+      I work at <a href="https://shopify.com/">Shopify</a> as a <b>Software Engineer II</b>.
     </p>
   </li>
   <li>
