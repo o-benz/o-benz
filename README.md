@@ -142,7 +142,7 @@
   <ul>
     <li>
       <p>
-        ⭐ <b>Plein QC · Live Quebec Gas Prices App</b><br>
+        ⭐ <a href="https://omarbenzekri.com/plein-qc"><b>Plein QC · Live Quebec Gas Prices App</b></a><br>
         <br>
         <a href="https://apps.apple.com/ca/app/plein-qc/id6761608251">
           <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store Badge" height="28" />
