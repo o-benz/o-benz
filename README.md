@@ -131,6 +131,10 @@
       👨‍🏫 <a href="https://cimf.ca/"><b>Collège international Marie de France</b></a>
       · <code>Coding Instructor</code>
       · <i>Sep 2020–Dec 2024</i>
+      <br/>
+      <sub>
+        Students ages 6–12
+      </sub>
     </li>
   </ul>
 </details>
