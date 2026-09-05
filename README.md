@@ -56,7 +56,7 @@
       · <i>May–Aug 2025</i>
       <br/>
       <sub>
-        Marketing Automation Tools / Email ·
+        Merchant Services / Messaging ·
         <a href="https://omarbenzekri.com/">
           <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="15" />
         </a>
@@ -71,7 +71,7 @@
       · <i>Jan–Apr 2025</i>
       <br/>
       <sub>
-        Platform Infrastructure Automation ·
+        Platform Engineering ·
         <a href="https://omarbenzekri.com/">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="15" />
         </a>
@@ -86,7 +86,7 @@
       · <i>May 2024–Apr 2025</i>
       <br/>
       <sub>
-        Horizon Services ·
+        Data Ingestion & Governance ·
         <a href="https://omarbenzekri.com/">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" />
         </a>
@@ -103,7 +103,7 @@
       · <i>May–Sep 2023</i>
       <br/>
       <sub>
-        Business Intelligence ·
+        IT Project Management ·
         <a href="https://omarbenzekri.com/">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" />
         </a>
