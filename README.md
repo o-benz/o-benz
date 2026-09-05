@@ -184,7 +184,7 @@
     </li>
     <li>
       <p>
-        <a href="https://salima-valentine.vercel.app/">a vibe coded valentine's</a>
+        <a href="https://vibecodedvalentines.vercel.app/">a vibe coded valentine's</a>
       </p>
     </li>
     <li>
