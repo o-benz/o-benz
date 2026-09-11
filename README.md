@@ -37,7 +37,7 @@
     <br/>
     <li>
       🛍️ <a href="https://shopify.com/"><b>Shopify</b></a>
-      · <code>Software Engineer</code>
+      · <code>Software Engineer II</code>
       · <i>Jan 2026–Present</i>
       <br/>
       <sub>
@@ -52,7 +52,7 @@
     </li>
     <li>
       🛍️ <a href="https://shopify.com/"><b>Shopify</b></a>
-      · <code>Software Engineer</code>
+      · <code>Software Engineer Intern</code>
       · <i>May–Aug 2025</i>
       <br/>
       <sub>
@@ -83,7 +83,24 @@
     <li>
       🏦 <a href="https://nbc.ca/"><b>National Bank of Canada</b></a>
       · <code>Data Engineer</code>
-      · <i>May 2024–Apr 2025</i>
+      · <i>Sep 2024–Apr 2025</i>
+      <br/>
+      <sub>
+        Data Ingestion & Governance ·
+        <a href="https://omarbenzekri.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" />
+        </a>
+        <a href="https://omarbenzekri.com/">
+          <img src="https://api.iconify.design/mdi/database.svg?color=white" height="15 />
+        <a href="https://omarbenzekri.com/">
+          <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="15" />
+        </a>
+      </sub>
+    </li>
+    <li>
+      🏦 <a href="https://nbc.ca/"><b>National Bank of Canada</b></a>
+      · <code>Data Engineer Intern</code>
+      · <i>May 2024–Aug 2024</i>
       <br/>
       <sub>
         Data Ingestion & Governance ·
@@ -99,7 +116,7 @@
     </li>
     <li>
       🛬 <a href="https://admtl.com/"><b>ADM Montréal Airports</b></a>
-      · <code>Data Engineer</code>
+      · <code>Data Engineer Intern</code>
       · <i>May–Sep 2023</i>
       <br/>
       <sub>
